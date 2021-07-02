@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/rustwasm/create-wasm-app#readme",
   "dependencies": {
-    "hello-world-dthunn": "^0.1.2",
+    "hello-world-dthunn": "^0.1.3",
     "wasm-game": "file:../pkg"
   },
   "devDependencies": {
